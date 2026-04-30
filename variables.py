@@ -2,7 +2,7 @@
 
 #GUARDAR LOS DATOS EN VARIABLES
 nombre = "Salome"
-edad = 14
+edad = 13
 pais = "Colombia"
 colegio = 'Normal Superior'
 frase_favorita = "Nunca dejes de soñar"
