@@ -4,6 +4,7 @@
 nombre = "Salome"
 edad = 14
 pais = "Colombia"
+colegio = 'Normal Superior'
 frase_favorita = "Nunca dejes de soñar"
 
 #MOSTRAR LOS DATOS EN CONSOLA
@@ -11,4 +12,5 @@ frase_favorita = "Nunca dejes de soñar"
 print('Nombre:', nombre)
 print('edad:', edad)
 print('País:', pais)
+print('Colegio:', colegio)
 print('Frase Favorita:', frase_favorita)
